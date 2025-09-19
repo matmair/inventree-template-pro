@@ -50,4 +50,11 @@ setuptools.setup(
             "PartTemplatesPlugin = inventree_part_templates.part_templates_plugin:PartTemplatesPlugin"
         ]
     },
+
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Operating System :: OS Independent",
+        "Framework :: InvenTree",
+    ],
 )
+
